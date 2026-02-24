@@ -1,7 +1,9 @@
 🌡️ Temperature Monitoring System
+
 A simple Python-based Temperature Monitoring System that simulates real-time temperature readings and checks whether they fall within a user-defined safe range.
 
 📌 Overview
+
 This project continuously generates random temperature values (0°C – 100°C) and compares them against user-provided minimum and maximum limits.
 
 It displays alert messages when:
@@ -46,6 +48,7 @@ git clone https://github.com/anujjonly/Temperature-Monitoring-System.git
 cd Temperature-Monitoring-System
 3️⃣ Run the Program
 python temperature_monitor.py
+
 🧠 How It Works
 
 User enters:
